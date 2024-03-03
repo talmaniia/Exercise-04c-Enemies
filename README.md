@@ -1,7 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+Added a jumping, moving, and charging enemy that can be destroyed by the player. 
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -14,4 +14,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Talli Cline
